@@ -15,7 +15,7 @@
     $val = sizeof($options);
 
     if ($val == 0){
-        echo "You sent and incorrect option";
+        echo "You sent an incorrect option";
     }else{
 
         switch ($options) {
